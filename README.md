@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Software Engineer<br><br>CEO<br>https://github.com/xscriptsdev</p>
+<p align="left">Software Engineer</p>
 
 ###
 
