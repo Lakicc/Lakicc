@@ -8,8 +8,10 @@ Building fast, accessible web products, from design system to production deploy.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-hristijanrafajlovski.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hristijanrafajlovski.com)
-[![Email](https://img.shields.io/badge/Email-info@hristijanrafajlovski.com-1a1a1a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@hristijanrafajlovski.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hristijanrafajlovski.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hristijan-rafajlovski-24093a30a/)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hristijanrafajlovski.com)
+[![CV](https://img.shields.io/badge/CV-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://hristijanrafajlovski.com/assets/cv.pdf)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hristijaaann)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/646794962767446026)
@@ -66,6 +68,8 @@ A trilingual agency platform I designed and engineered from scratch in React 19 
 
 I'm happy to talk through architecture decisions, walk through code, or scope a project.
 
+📄 &nbsp;**[Download my CV](https://hristijanrafajlovski.com/assets/cv.pdf)**
+💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/hristijan-rafajlovski-24093a30a/)
 &nbsp;&nbsp;📧 &nbsp;[info@hristijanrafajlovski.com](mailto:info@hristijanrafajlovski.com)
 &nbsp;&nbsp;🌐 &nbsp;[hristijanrafajlovski.com](https://hristijanrafajlovski.com)
 
