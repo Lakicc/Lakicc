@@ -52,6 +52,8 @@ Most of my work is React and TypeScript. I also write Lua and C++, which is wher
 
 <br>
 
+## My Agency
+
 ### Noex — Digital Agency
 
 A trilingual agency platform I designed and engineered from scratch in React 19 and TypeScript.
